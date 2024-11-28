@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen_antonio_martinez_segura</string>
+    <string name="username_o_email">▸\tUserName o Email</string>
+    <string name="introduce_tu_nombre_de_usuario_o_email">introduce tu nombre de usuario o email</string>
+    <string name="username_email">username/email</string>
+    <string name="password">Password</string>
+    <string name="introduce_tu_contraseña">introduce tu contraseña</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="bienvenido_a_la_aplicacion">Bienvenido a la aplicacion</string>
+</resources>
